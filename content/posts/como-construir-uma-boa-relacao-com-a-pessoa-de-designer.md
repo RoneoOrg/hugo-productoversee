@@ -1,15 +1,19 @@
-+++
-authors = "Paulo Chiodi"
-categories = ["Tático"]
-date = 2022-04-06
-excerpt = "O papel das pessoas que gerem produtos é uma intersecção entre responsabilidades. Uma dessas intersecções é com quem cria a experiência do usuário de fato."
-image = "https://i.imgur.com/K28HjgU.jpg"
-publishDate = 2022-04-06
-tags = ["design"]
-title = "Como construir uma boa relação com a pessoa de design?"
-type = "post"
-sponsor = "ituring"
-+++
+---
+type: post
+title: Como construir uma boa relação?
+excerpt: O papel das pessoas que gerem produtos é uma intersecção entre
+  responsabilidades. Uma dessas intersecções é com quem cria a experiência do
+  usuário de fato.
+authors: Paulo Chiodi
+date: 2022-04-06
+publishDate: 2022-04-06
+image: https://i.imgur.com/K28HjgU.jpg
+categories:
+  - Tático
+tags:
+  - design
+sponsor: ituring
+---
 Recentemente tive a honra de participar de um #bomdiaux para conversar com o Rafael Burity e Rodrigo Lemes sobre "[Como funciona a relação da pessoa de produto e pessoa de designer?](https://bit.ly/3t1jBDE)"
 
 Gostaria de continuar a conversa aqui a partir da seguinte pergunta: No que a pessoa designer de produto precisa da pessoa gerente de produto?
